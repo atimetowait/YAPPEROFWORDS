@@ -1,7 +1,6 @@
----
-title: My GitHub Pages Notebook!
----
-
-Hello world!
-
-Write some words here!
+raptures, healing, bluets in prose
+-maybe written words only
+-a narration when fit
+-paint a picture, blurring into absence
+-no_martyrs
+xoxoxo
