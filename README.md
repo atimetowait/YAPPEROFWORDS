@@ -1,23 +1,120 @@
-# Obsidian / Quartz / GitHub Pages Template
+###### Start now, 
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+You must heal your head. <br>
+Next in the body. <br>
+Now, <br>
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
 
-## Basic setup
+With all of you. <br>
+Heal that...as well. <br>
+Second those remains to follow.<br>
+For all that health in the prior kin will be the ones that lead you, soon. <br>
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+Take them in hand. <br>
+Follow the smallest thread you find. 
+Or the one that just, looks most beautiful...to you.<br>
+Tug on it, a lot. <br>
+But not to reveal its threading. 
+Just enough for it to take shape in those smaller spaces like you take forth, right now. <br>
+You've been, so thin – for so long? For why?<br>
+Yet, <br>
 
-## Raw HTML pages
 
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
+There's still no threading to you, nor thread-like line exposed! <br>
+No frizz from the friction, or worn down nature in your frame. <br>
+No guiding to follow towards your aches, no rhyme to the songs you alone sing!!!<br>
+Though, <br>
+I know all of which has been, shaving, weighing...even breaking you down.<br>
 
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
 
-## Further customization
+Again I ask,<br> why?<br>
+You would look so forlorn – unraveled-like. 
+It's a blessing you did not! <br>
+It reminds me of that time I too, was reduced.<br>
+It was just I, <br>
+And the last of my embers – still-like. <br>
+So nigh to ash then, but do you notice...how stoked my flame is, right now? <br>
+Mustn't you forget dear, we are all the same!<br>
+You must break!!! <br>
+In now!
+Go forth, <br>
+Landing towards the hardest of those beds you alone, lie rest in.<br>
+You again though. <br>
+Must. Be. Still. <br>
 
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
 
-https://quartz.jzhao.xyz/configuration
+Now, for the first time.
+Accept it.<br>
+Though, did you know?<br>
+
+
+That even I,<br> am birthed from these embers that lie right below.<br>
+But now.<br>
+
+
+Please hold this mindfulness here – nothing, comes from ash! 
+You must break though, collapse, then finally...eclipse yourself in nature.<br>
+And for last!!!
+Forsake them.
+All of them.<br>
+ALL. OF. THEM.<br>
+
+
+'For all who bear witness to this inwards collapse. 
+ Believe me.
+ They cannot do anything but
+ Forever work to quell those imminent pulses. 
+ For you now, – have perused their own.
+ Seek solace through that.
+ That you – above all the other morally dissonant beings.'
+ 
+
+                   "Are finally whole."
+  
+You now.<br>
+Only light into rebirths!!! 
+Aren't you thrilled? <br>
+There is no succumbed ache to replace a feeling, like that.<br>
+Though, <br>
+Once you finally let it take you over. <br>
+There's the thrills end!<br>
+Then,<br> it shall finally be time to revel in your prowess. <br>
+The differences in you & I, <br> for example!!!<br>
+
+
+Like, that threading in you.
+It can make twine! <br>
+Into yarn even, 
+To rope, now too.<br>
+Further it then!
+But no... 
+No tying of those noose-like knots you only, <br>
+can never do correct.
+You failed then, 
+And will fail towards it, again. <br>
+Now, 
+Your yarn! <br>
+Make it to rope.
+A bridge, now too. <br>
+No!
+
+
+Maybe keep it as rope, actually!!! <br>
+Pull up that kinship that rests now – that one like before!
+The one that is down under you! 
+Look towards the abyss.<br>
+And next,
+See what you alone, will find!!! 
+Maybe more of you, the same?
+Pull up your kin then. 
+If that's still you... <br>
+I must add.<br>
+-alice <br>
+x
+@performingwithprose - instagram<br>
+@atimetowait - soundcloud<br>
+https://atimetowait.com<br>
+https://yapperofwords.com<br>
+'freya langley' - everywhere else<br>
+be well :)
