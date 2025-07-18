@@ -11,10 +11,14 @@
             "id": "31e67e9167986414",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Live Journal/atimetowait.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "atimetowait"
             }
           }
         ]
@@ -162,5 +166,7 @@
     }
   },
   "active": "31e67e9167986414",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "source/content/index.md"
+  ]
 }
