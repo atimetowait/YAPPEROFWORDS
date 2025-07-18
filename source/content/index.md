@@ -1,7 +1,4 @@
 ---
 title: Onboarding
 ---
-
-Hello world!
-
-Write some words here!
+Is this thing on?
