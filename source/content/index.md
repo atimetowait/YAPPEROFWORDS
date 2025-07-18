@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Onboarding
 ---
-
-Hello world!
-
-Write some words here!
+Is this thing on?
